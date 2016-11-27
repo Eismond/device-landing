@@ -1,0 +1,247 @@
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x11d54c8 of 72 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x11d12d8 of 784 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:ERROR:process_snapshot_win.cc(380)] ReadMemory RTL_USER_PROCESS_PARAMETERS
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x717c0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_elf.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ce0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USER32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75080000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\profapi.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75360000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73730000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70f30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\webio.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x66b00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75570000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77270000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75640000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fcc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75890000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\ole32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75db0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77250000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\NSI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x759f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75070000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74ef0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SSPICLI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x59550000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_child.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x63050000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\dwrite.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74f10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\cryptbase.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x771cc000 of 5888 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0xfd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x770f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75200000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\KERNELBASE.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\kernel32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\msvcrt.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ae0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76c50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x717c0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_elf.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x754d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USP10.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77240000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\LPK.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ce0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USER32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75080000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\profapi.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75360000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73730000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70f30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\webio.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x66b00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75570000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77270000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75640000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fcc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75890000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\ole32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75db0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77250000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\NSI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x759f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75070000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74ef0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SSPICLI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x59550000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_child.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x63050000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\dwrite.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74f10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\cryptbase.dll
+[0714/174929:ERROR:process_reader_win.cc(98)] process 4324 not found
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0xfd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\chrome.exe
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x770f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75200000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\KERNELBASE.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\kernel32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\msvcrt.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ae0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76c50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x717c0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_elf.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x754d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USP10.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77240000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\LPK.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ce0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USER32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70370000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75080000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\profapi.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75360000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73730000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70f30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\webio.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x66b00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75570000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77270000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75640000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fcc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75890000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\ole32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75db0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77250000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\NSI.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x759f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75070000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74ef0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\SSPICLI.DLL
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x59550000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\Google\Chrome\Application\51.0.2704.106\chrome_child.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x63050000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\dwrite.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74f10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\cryptbase.dll
+[0714/174929:ERROR:process_reader_win.cc(232)] ReadMemory at 0x108c374 of 12 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0714/174929:WARNING:process_snapshot_win.cc(102)] ReadMemory ExceptionInformation failed
+[0714/174929:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0714/174929:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
